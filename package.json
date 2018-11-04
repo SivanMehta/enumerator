@@ -1,14 +1,14 @@
 {
-  "name": "enumerator",
+  "name": "enumerate",
   "version": "0.0.0",
   "description": "Enumerate all the possibilities, given an object with iterable values",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SivanMehta/enumerator.git"
+    "url": "git+https://github.com/SivanMehta/enumerate.git"
   },
   "keywords": [
     "enumeration"
@@ -16,7 +16,11 @@
   "author": "Sivan Mehta",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SivanMehta/enumerator/issues"
+    "url": "https://github.com/SivanMehta/enumerate/issues"
   },
-  "homepage": "https://github.com/SivanMehta/enumerator#readme"
+  "homepage": "https://github.com/SivanMehta/enumerate",
+  "devDependencies": {
+    "assume": "^2.1.0",
+    "mocha": "^5.2.0"
+  }
 }
