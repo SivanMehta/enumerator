@@ -1,0 +1,22 @@
+{
+  "name": "enumerator",
+  "version": "0.0.0",
+  "description": "Enumerate all the possibilities, given an object with iterable values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SivanMehta/enumerator.git"
+  },
+  "keywords": [
+    "enumeration"
+  ],
+  "author": "Sivan Mehta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SivanMehta/enumerator/issues"
+  },
+  "homepage": "https://github.com/SivanMehta/enumerator#readme"
+}
