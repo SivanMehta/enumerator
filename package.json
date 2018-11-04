@@ -1,6 +1,6 @@
 {
   "name": "spread-out",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Spread out all of the possibilities, given an object with iterable values",
   "main": "index.js",
   "scripts": {
