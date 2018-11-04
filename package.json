@@ -4,7 +4,8 @@
   "description": "Enumerate all the possibilities, given an object with iterable values",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test.js"
+    "test": "mocha test.js",
+    "test:debug": "mocha --inspect-brk test.js"
   },
   "repository": {
     "type": "git",
