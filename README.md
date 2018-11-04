@@ -4,7 +4,7 @@ Spread out all of the possibilities, given an object with iterable values
 
 ## Installation
 
-```sh
+```
 npm install spread-out
 ```
 
@@ -27,4 +27,10 @@ console.log(battles);
   { hero: 'Vegeta', villian: 'Frieza' },
   { hero: 'Vegeta', villian: 'Cell' } ]
  */
+```
+
+## Tests
+
+```
+npm test
 ```
