@@ -32,7 +32,7 @@ class Tree {
   }
 }
 
-module.exports = function enumerate (opts) {
+module.exports = function enumerate(opts) {
   const tree = new Tree();
 
   Object.entries(opts).forEach(([key, value]) => {

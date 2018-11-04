@@ -42,7 +42,7 @@ describe('Enumerator', function () {
       receiver: new Set(),
       coach: new Set(),
       mascot: new Set()
-    }
+    };
 
     teams.forEach(team => {
       Object.entries(team).forEach(([position, player]) => {
