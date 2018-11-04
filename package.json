@@ -1,7 +1,7 @@
 {
-  "name": "enumerate",
+  "name": "spread-out",
   "version": "1.0.0",
-  "description": "Enumerate all the possibilities, given an object with iterable values",
+  "description": "Spread out all of the possibilities, given an object with iterable values",
   "main": "index.js",
   "scripts": {
     "test": "mocha test.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SivanMehta/enumerate.git"
+    "url": "git+https://github.com/SivanMehta/spread-out.git"
   },
   "keywords": [
     "enumeration"
@@ -17,9 +17,9 @@
   "author": "Sivan Mehta",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SivanMehta/enumerate/issues"
+    "url": "https://github.com/SivanMehta/spread-out/issues"
   },
-  "homepage": "https://github.com/SivanMehta/enumerate",
+  "homepage": "https://github.com/SivanMehta/spread-out",
   "devDependencies": {
     "assume": "^2.1.0",
     "mocha": "^5.2.0"
