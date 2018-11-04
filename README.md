@@ -1,4 +1,8 @@
-# `spread out`
+# `spread-out`
+
+![npm (scoped)](https://img.shields.io/npm/v/spread-out.svg?style=popout-square)
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout-square)
+[![Build Status](https://travis-ci.com/SivanMehta/spread-out.svg?branch=master)](https://travis-ci.com/SivanMehta/spread-out)
 
 Spread out all of the possibilities, given an object with iterable values
 
